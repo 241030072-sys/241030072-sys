@@ -1,6 +1,6 @@
 <div align="center">
 
-# Your Name
+# Shivam Sharma
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=555555&center=true&vCenter=true&width=480&lines=Flutter+%2B+Node.js+Developer;300%2B+LeetCode+Problems+Solved;Building+fast%2C+clean%2C+scalable+apps" />
 
@@ -38,7 +38,7 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 ## LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma&ext=contest&border=0" />
+  <img src="https://leetcard.jacoblin.cool/purecoder23?theme=light&font=Karma&ext=contest&border=0" />
 </div>
 
 ---
@@ -46,9 +46,9 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_rank=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=241030072-sys&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_rank=false" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=241030072-sys&layout=compact&theme=graywhite&hide_border=true" height="150"/>
 </div>
 
 ---
