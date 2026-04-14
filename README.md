@@ -65,6 +65,6 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) &nbsp;•&nbsp; [Email](mailto:your@email.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[LinkedIn](https://linkedin.com/in/shivam-enthusiast) &nbsp;•&nbsp; [Email](mailto:shivamsharmasinger98@gmail.com.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/purecoder23)
 
 </div>
