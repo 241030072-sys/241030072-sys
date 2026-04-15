@@ -46,9 +46,7 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=241030072-sys&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=241030072-sys&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://ghchart.ssh.surf/241030072-sys" alt="GitHub Contribution Chart" />
 </div>
 
 ---
