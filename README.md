@@ -55,16 +55,6 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 
 ---
 
-## Selected Work
-
-**Project One** — What it does and why it matters. One or two sentences max.
-
-**Project Two** — Frame it around the problem it solves, not the stack it uses.
-
-**Project Three** — Include scale or impact if you have it — users, performance, adoption.
-
----
-
 <div align="center">
 
 [LinkedIn](https://linkedin.com/in/shivam-enthusiast) &nbsp;•&nbsp; [Email](mailto:shivamsharmasinger98@gmail.com.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/purecoder23)
