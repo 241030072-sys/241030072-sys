@@ -47,9 +47,9 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
   </picture>
 </div>
 
