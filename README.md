@@ -16,6 +16,7 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 - ⚙️ Node.js — RESTful APIs and backend services
 - 🗄️ PostgreSQL & MongoDB — relational and document data models
 - 🧠 300+ LeetCode problems solved (and counting)
+- 🏗️ Exploring System Design — scalability, distributed systems, and backend architecture
 
 ---
 
@@ -63,8 +64,17 @@ Security App — Detects cloned/fake apps using device-level checks
 
 ---
 
+Achievements
+
+🏆 5× Hackathon Winner — including SIH 2025 Internal Round
+🚀 Delivered production-ready prototypes in high-pressure, time-bound environments
+🧠 Solved 300+ algorithmic problems on LeetCode, strengthening DSA & optimization skills
+🤝 Collaborated in cross-functional teams, handling both frontend (Flutter) and backend (Node.js) responsibilities
+
+---
+
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/shivam-enthusiast) &nbsp;•&nbsp; [Email](mailto:shivamsharmasinger98@gmail.com.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/purecoder23)
+[LinkedIn](https://linkedin.com/in/shivam-enthusiast) &nbsp;•&nbsp; [Email](mailto:shivamsharmasinger98@gmail.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/purecoder23)
 
 </div>
