@@ -47,13 +47,7 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 
 ## Activity
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=241030072-sys&theme=default&utcOffset=5.5" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=241030072-sys&theme=default" />
-
-</div>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 ---
 
