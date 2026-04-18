@@ -60,6 +60,20 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 
 ---
 
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## Projects
 
 - **Blinkit Clone**  
