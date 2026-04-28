@@ -51,7 +51,6 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 
 <br/><br/>
 
-<!-- Activity Graph — Tokyo Night theme -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=241030072-sys&theme=tokyo-night&hide_border=true&area=true&radius=6" width="100%" />
 
 <br/>
