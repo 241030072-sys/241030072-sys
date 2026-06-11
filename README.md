@@ -53,7 +53,7 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=241030072-sys&theme=tokyo-night&hide_border=true&area=true&radius=6" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=241030072-sys&theme=react-dark&hide_border=true&area=true" />
 
 <br/>
 
